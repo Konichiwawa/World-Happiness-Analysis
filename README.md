@@ -10,7 +10,7 @@ The purpose of this project is to perform exploratory analysis on World Happines
 
 ## Steps & Tools 
 - Python/Jupyter Notebook was used to wrangle the data, conduct analysis, and visualize the results. 
-- Tableau was used to create a storyboard that includes key charts and results of the project.
+- Tableau was used to create a storyboard that includes key charts and information relverant to the final results of the project.
 
 ## Resources
 - [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
