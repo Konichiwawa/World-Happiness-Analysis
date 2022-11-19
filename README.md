@@ -1,10 +1,10 @@
 # World-Happiness-Analysis
 
 ## Objective 
-The purpose of this project is to perform exploratory analysis on World Happiness Report datasets. This particular dataset was selected to investigate the relationships between several factors affecting happiness levels in countries. 
+The purpose of this project is to perform exploratory analysis on World Happiness Report data to understand how variables including GDP, Life Expectancy, Freedom, Generosity, and Corruption drive happiness of a country. 
 
 ## Data
-- The data comes from survery results conducted in many countries between 2015 abd 2019. It includes variables such as GDP and life expectancy. It's an open-source and it's available on Kaggle for anyone to download. 
+- The data comes represents survery results from many countries between 2015 abd 2019. It's an open-source data and it's available on Kaggle, a public online data repository for anyone to download. 
 - This analysis used geojson shapefile to conduct spatial analysis using Python's folium library. 
 - United States's GDP % change data was used to conduct Time-Series analysis.
 
