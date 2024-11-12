@@ -21,7 +21,7 @@ Additional Data
 - Tableau: Used to create a comprehensive storyboard that presents key charts and insights visually. This tool was chosen for its ability to create interactive visualizations and dashboards that summarize the project’s findings.
 
 ## Resources
-- [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-- [Geojson Shapefile](https://geojson-maps.ash.ms/)
+- [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness): The open-source dataset from Kaggle, which provides the happiness scores and relevant factors for countries over the years.
+- [Geojson Shapefile](https://geojson-maps.ash.ms/): A shapefile that maps country borders for spatial visualization.
 - [United States GDP % Change](https://data.nasdaq.com/data/ODA/USA_NGDP_RPCH-united-states-gdp-at-constant-prices-change)
-- [Tableau Link](https://public.tableau.com/app/profile/thang.tran4072/viz/WorldHappinessAnalysis_16681405688350/Presentation?publish=yes)
+- [Tableau Storyboard](https://public.tableau.com/app/profile/thang.tran4072/viz/WorldHappinessAnalysis_16681405688350/Presentation?publish=yes): A Tableau file showcasing interactive visualizations and insights derived from the analysis.
