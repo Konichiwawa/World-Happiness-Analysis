@@ -1,14 +1,24 @@
 # World Happiness Analysis
 
 ## Objective
-The goal of this project is to conduct an exploratory analysis of the World Happiness Report data to understand the impact of various factors such as GDP, life expectancy, freedom, generosity, and corruption on a country's happiness.
+The goal of this project is to conduct an exploratory analysis of the World Happiness Report data to understand the impact of various factors such as GDP, life expectancy, freedom, generosity, and corruption on a country's happiness score. The analysis will also identify key insights and trends that can help explain variations in happiness across different countries.
 
-## Data
-The data represents survey results from numerous countries between 2015 and 2019. This open-source dataset is available on Kaggle, a public online data repository. The analysis also incorporates a GeoJSON shapefile for spatial analysis using Python's folium library, as well as GDP percentage change data for the United States to conduct a time-series analysis.
+## Data Overview
+The dataset includes survey results from numerous countries spanning from 2015 to 2019. The key attributes include:
+
+- Happiness Score: The main target variable that reflects the overall happiness of a country.
+- GDP: The country's Gross Domestic Product per capita.
+- Life Expectancy: The average life expectancy of people in the country.
+- Freedom: A measure of perceived freedom to make life choices.
+- Generosity and Corruption: Two other factors included in the survey to evaluate their impact on happiness.
+  
+Additional Data
+- GeoJSON Shapefile: Used for spatial analysis and to visualize happiness data on a global map using Python's folium library.
+- GDP Percentage Change (U.S.): Included for a time-series analysis to track changes in GDP and their potential correlation with happiness over time in the United States.
 
 ## Tools
-- Python/Jupyter Notebook: Utilized for data wrangling, analysis, and visualization.
-- Tableau: Used to create a comprehensive storyboard that presents key charts and insights relevant to the project’s findings.
+- Python/Jupyter Notebook: Used for data wrangling, analysis, and visualization. Libraries such as pandas, matplotlib, and folium were employed to clean, process, and visualize the data.
+- Tableau: Used to create a comprehensive storyboard that presents key charts and insights visually. This tool was chosen for its ability to create interactive visualizations and dashboards that summarize the project’s findings.
 
 ## Resources
 - [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
